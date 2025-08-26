@@ -68,5 +68,5 @@ This content is for educational purposes only. The HaveIBeenPwned API is used to
 All credit for the HaveIBeenPwned service goes to Troy Hunt and his team.
 
 ## 🧾 License
-This project is licensed under the MIT License.
+This project is licensed under the [MIT License](https://github.com/aminuzz/Password-Strength-Checker/blob/main/LICENSE).
 
