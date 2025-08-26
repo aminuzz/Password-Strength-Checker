@@ -33,11 +33,11 @@ All of this comes together in a simple **Tkinter GUI** for interactive use ðŸ’»â
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/your-repo.git
+git clone https://github.com/aminuzz/Password-Strength-Checker.git
 ```
 2. Navigate into the project folder:
 ```bash
-cd your-repo
+cd Password-Strength-Checker
 ```
 3. Run the application:
 ```bash
